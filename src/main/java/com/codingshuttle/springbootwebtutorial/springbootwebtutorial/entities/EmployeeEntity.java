@@ -1,6 +1,7 @@
 package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.entities;
 
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import jdk.jfr.DataAmount;
 import lombok.AllArgsConstructor;
